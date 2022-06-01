@@ -32,7 +32,7 @@
       "id": 4
     },
     {
-      "text": "Ne güzel şey hatırlamak seni. Sana tahtadan birşeyler oymalıyım yine: bir çekmece bir yüzük, ve üç metre kadar ince ipekli dokumalıyım. Ve hemen fırlayarak yerimden, penceremde demirlere yapışarak, hürriyetin sütbeyaz maviliğine, sana yazdıklarımı bağıra bağıra okumalıyım... Ne güzel şey hatırlamak seni: ölüm ve zafer haberleri içinde, hapiste ve yaşım kırkı geçmiş iken...",
+      "text": "Ne güzel şey hatırlamak seni. Sana tahtadan bir şeyler oymalıyım yine: bir çekmece bir yüzük, ve üç metre kadar ince ipekli dokumalıyım. Ve hemen fırlayarak yerimden, penceremde demirlere yapışarak, hürriyetin sütbeyaz maviliğine, sana yazdıklarımı bağıra bağıra okumalıyım... Ne güzel şey hatırlamak seni: ölüm ve zafer haberleri içinde, hapiste ve yaşım kırkı geçmiş iken...",
       "source": "Ne Güzel Şey Hatırlamak Seni - Nazım Hikmet",
       "length": 375,
       "id": 5
@@ -333,7 +333,7 @@
     },
     {
       "text": "Ölüm, bir saniye kadar yakınken hiç ölmeyecekmiş gibi yaşamanın alemi ne?",
-      "source": "Necip Fazıl",
+      "source": "Necip Fazıl Kısakürek",
       "length": 73,
       "id": 57
     },
@@ -355,5 +355,95 @@
       "length": 191,
       "id": 60
     }
+    {
+      "text": "Kardeş kardeşi bıçaklamış, dönmüş bir daha kucaklamış.",
+      "source": "Atasözü",
+      "length": 54,
+      "id": 61
+    },
+    {
+      "text": "Sevdim sevilmedim, sevildim sevemedim.",
+      "source": "Sevdim Sevilmedim - Candan Erçetin",
+      "length": 38 ,
+      "id": 62
+    },
+    {
+      "text": "Güven tıpkı gönül gibi camdan bir saraydır ey oğul, bir kere kırılmayagörsün her bir zerresi insanın kalbine saplanır.",
+      "source": "Muhteşem Yüzyıl",
+      "length": 118,
+      "id": 63
+    },
+    {
+      "text": "Unutma, cehennem dediğinin dalı ateşi yoktur. Herkes kendi ateşini yanında götürür. Kendi ellerinle inşa ettiğin sevgi ve güveni kendi ellerinle yıktın.",
+      "source": "Muhteşem Yüzyıl",
+      "length": 152,
+      "id": 64
+    },
+    {
+      "text": "Ey oğul, bir babanın kalbinden evladına bir ırmak akar. Sen o suyu bulandırdın kuruttun. Bundan böyle bil ki ne ben itimat edebilirim sana, ne de sen bana söz verebilirsin.",
+      "source": "Muhteşem Yüzyıl",
+      "length": 172,
+      "id": 65
+    },
+    {
+      "text": "Doğruluk minarede kalmış, onun da içi eğri.",
+      "source": "Atasözü",
+      "length": 43,
+      "id": 66
+    },
+    {
+      "text": "Taze bardağın suyu soğuk olur.",
+      "source": "Atasözü",
+      "length": 30,
+      "id": 67
+    },
+    {
+      "text": "Doğruluk minarede kalmış, onun da içi eğri.",
+      "source": "Atasözü",
+      "length": 43,
+      "id": 66
+    },
+    {
+      "text": "Kaderimiz niye avucumunuzun içinde yazılıdır bilir misin? Gerektiğinde gizleyebilelim diye. Niye bilir misin? Çünkü güç gizden gelir. Gerçek niyetini kimse bilmeyecek. Kaderin sırrındır. Kaderini kimseyle paylaşmayacaksın.",
+      "source": "Ezel - Ramiz Karaeski",
+      "length": 222,
+      "id": 67
+    },
+    {
+      "text": "Oysa herkes öldürür sevdiğini. Kulak verin bu dediklerime. Kimi bir bakışı ile yapar bunu, kimi dalkavukça sözlerle. Korkaklar öpücük ile öldürür; yürekliler kılıç darbeleriyle. Kimi gözyaşı döker öldürürken, kimi kılı kıpırdamadan. Çünkü herkes öldürür sevdiğini, ama herkes öldürdü diye ölmez.",
+      "source": "Oysa Herkes Öldürür Sevdiğini - Oscar Wilde",
+      "length": 295,
+      "id": 68
+    },
+    {
+      "text": "İnanıyorum söylediğini candan söylediğine, ama bugünkü karar yarın bozulur çok kez. Kendi kendimize verdiğimiz sözü tutmak en çabuk unuttuğumuz şeydir ne yapsak. Mademki bu dünya bile yok olacak bir gün, sevginin bitmesine insan neden üzülsün. Aşk mı kaderi kovalar kader mi aşkı? Daha kimseler çözemedi bu bilmeceyi.",
+      "source": "Hamlet - William Shakespeare",
+      "length": 317 ,
+      "id": 69
+    },
+    {
+      "text": "Sanatsız kalan bir milletin hayat damarlarından biri kopmuş demektir.",
+      "source": "Mustafa Kemal Atatürk",
+      "length": 69,
+      "id": 70
+    },
+    {
+      "text": "Hayatın kuralı bu yeğen, ne kadar uzağa gidersen git başladığın yere dönersin sonunda. Ne kadar değişirsen değiş, nerede mutlu olduysan hep oraya çevirirsin kafanı. Ne kadar terbiye etsen de susturamazsın içindeki canavarı. Nereye gidersen git yeğen şunu unutma: Herkes gün olur evine geri döner.",
+      "source": "Ezel - Ramiz Karaeski",
+      "length": 296,
+      "id": 71
+    },
+    {
+      "text": "Ağlaya ağlaya geldiğin dünyada güle güle yaşayacağını mı sandın.",
+      "source": "Tuncel Kurtiz",
+      "length": 64,
+      "id": 72
+    },
+    {
+      "text": "Her şey istediğin gibi giderken, bir şey, tek bir şey kaçıp gider elinden. Tek bir bedel diğer hepsine değer. Neyi en çok istediğini onu kaybettiğinde anlar insan. Neyin eksik olduğunu, onu özlediğinde anlar insan. Hep istediğin şeyi koyduğunda sonunda yerine, içine düşen korku gerçeği anlatır sana. Hayatındaki eksik şeyi bulduğunda, avucunda eriyen kar gibi gitmesinin bekleyeceksin. Çünkü bu derde bir çaren yok, bu soruya bir cevabın yok henüz. Birinin elinden en önemli şeyi al, onu çaresiz kıl; İntikam öyle alınır. Birinin elinden sevdiğine yardım edecek çaresini al, gittiği yere gidemesin peşinden. Acı asıl öyle çekilir. Her şeye karşı çık, yapılmaz olanı yap, neyin önemli olduğunu buldun mu, asıl kavga orada başlar. Sevdiğini son defa gördüğünü bilmek mi daha zordur, onu son defa görememek mi? Onu elinle karanlığa teslim etmek mi daha korkunçtur? Onu oradan çekip çıkaramamak mı? Kadere teslim olmak teselli midir yoksa kadere baş kaldırmak mı çare?",
+      "source": "Ezel - Ramiz Karaeski",
+      "length": 965,
+      "id": 73
+    },
   ]
 }
